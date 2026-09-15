@@ -1,5 +1,5 @@
 <a href="https://photo-site-cyan.vercel.app/">
-  <img src="assets/banner.png" alt="Kai Simpson — Code and visual stories. A winter street photograph from my Yuki series." width="100%" />
+  <img src="assets/banner-retina.png" alt="Kai Simpson — Code and visual stories. A winter street photograph from my Yuki series." width="100%" />
 </a>
 
 I build web experiences that give creative work a place to live. My projects explore responsive interfaces, motion, and ways to turn a collection of photographs into a story.
