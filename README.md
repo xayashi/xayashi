@@ -1,32 +1,34 @@
-# Kai Simpson
+<a href="https://photo-site-cyan.vercel.app/">
+  <img src="assets/banner-retina.png" alt="Kai Simpson — Code and visual stories. A winter street photograph from my Yuki series." width="100%" />
+</a>
 
-I build web experiences and contribute to AI developer tools. I'm studying computer science at Minnesota State University Moorhead, with expected graduation in December 2026. Photography and visual storytelling shape how I approach interfaces.
+I build web experiences that give creative work a place to live. My projects explore responsive interfaces, motion, and ways to turn a collection of photographs into a story.
 
-[Hayashi Creative](https://hayashi.studio) · [Public projects](https://github.com/xayashi?tab=repositories)
+[Hayashi Creative](https://hayashi.studio) · [Photography portfolio](https://photo-site-cyan.vercel.app/) · [Browse my projects](https://github.com/xayashi?tab=repositories)
 
-## Featured work
+## Selected work
 
-### [Hayashi Creative](https://hayashi.studio)
-A live Next.js website for my photography and creative media work, with portfolios, client stories, and booking information.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/xayashi/PhotoSite"><img src="assets/photosite.png" alt="PhotoSite: a dark, horizontal photography gallery featuring the Yuki winter series" width="100%" /></a>
+<h3><a href="https://github.com/xayashi/PhotoSite">PhotoSite</a></h3>
+<p>Photography, told one story at a time. A horizontal gallery with Markdown stories, image lightboxes, and browser tests.</p>
+<p><sub>REACT · VITE · TAILWIND CSS</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/xayashi/AllSocialsLanding"><img src="assets/allsocials.png" alt="AllSocials Landing: a responsive link-page demo with a sample profile and translucent cards" width="100%" /></a>
+<h3><a href="https://github.com/xayashi/AllSocialsLanding">AllSocials Landing</a></h3>
+<p>A small experiment in interface design: typed components, translucent cards, and responsive layouts. Preview uses sample profile content.</p>
+<p><sub>TYPESCRIPT · REACT · TAILWIND CSS</sub></p>
+</td>
+</tr>
+</table>
 
-**Next.js · React · Interface design**
+## What I work with
 
-### [Nekko Agent](https://github.com/nekko-labs/nekko-agent) | Open-source contributions
-Contributed live Anthropic model discovery across TypeScript and Rust, with timeout handling, offline fallbacks, and regression tests. Also improved model-capability handling and issue-closing automation.
+**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS  
+**Beyond the browser:** Python, SQLite, Git  
+**Creative interests:** photography, film, interaction design, and visual storytelling
 
-[Model discovery #412](https://github.com/nekko-labs/nekko-agent/pull/412) · [Model capabilities #435](https://github.com/nekko-labs/nekko-agent/pull/435) · [CI automation #509](https://github.com/nekko-labs/nekko-agent/pull/509)
-
-### [PhotoSite](https://github.com/xayashi/PhotoSite)
-A React photography portfolio with a horizontal gallery, Markdown stories, image lightboxes, and a 40-test Playwright suite covering navigation, accessibility-related behavior, and interactions.
-
-**React · JavaScript · Vite · Tailwind CSS · Playwright**
-
-[Live site](https://photo-site-cyan.vercel.app/) · [Source](https://github.com/xayashi/PhotoSite)
-
-### [Getsu](https://github.com/nekko-labs/getsu) | Open-source contributions
-Updated AI model settings, added a fallback for retired model selections, and added a Playwright regression test. Also clarified deployment documentation and hosting limits.
-
-[AI settings #42](https://github.com/nekko-labs/getsu/pull/42) · [Deployment docs #41](https://github.com/nekko-labs/getsu/pull/41)
-
-## Smaller experiments
-[AllSocials Landing](https://github.com/xayashi/AllSocialsLanding): a React and TypeScript link-page UI study with typed components, clipboard feedback, and responsive Tailwind layouts. Uses sample profile content.
+Some of my coursework and collaborative projects remain private. The projects above are a small selection of my public work.
