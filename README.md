@@ -17,10 +17,10 @@ I build web experiences that give creative work a place to live. My projects exp
 <p><sub>REACT · VITE · TAILWIND CSS</sub></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xayashi/AllSocialsLanding"><img src="assets/allsocials.png" alt="AllSocials Landing: a responsive link-page demo with a sample profile and translucent cards" width="100%" /></a>
-<h3><a href="https://github.com/xayashi/AllSocialsLanding">AllSocials Landing</a></h3>
-<p>A small experiment in interface design: typed components, translucent cards, and responsive layouts. Preview uses sample profile content.</p>
-<p><sub>TYPESCRIPT · REACT · TAILWIND CSS</sub></p>
+<a href="https://hayashi.studio/"><img src="assets/hayashi-creative.jpg" alt="Hayashi Creative: photography portfolio and creative media website" width="100%" /></a>
+<h3><a href="https://hayashi.studio/">Hayashi Creative</a></h3>
+<p>Photography and creative media for people and brands, with photo galleries, client stories, and booking information.</p>
+<p><sub>NEXT.JS · REACT · PHOTOGRAPHY</sub></p>
 </td>
 </tr>
 </table>
